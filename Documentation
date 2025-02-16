@@ -1,0 +1,17 @@
+ Multi-Functional Application
+
+A Python-based application that combines a web scraper and a GUI calculator.
+
+## Features
+- **Web Scraper**: Extracts data from websites and saves it in CSV or JSON format.
+- **GUI Calculator**: Performs basic arithmetic operations and saves history in an SQLite database.
+- **Logging**: Logs all operations and errors.
+- **Reports**: Generates CSV reports of calculation history.
+
+## How to Run
+1. Install dependencies:
+   ```bash
+   pip install requests beautifulsoup4 pandas
+
+    Run the script:
+python main_app.py

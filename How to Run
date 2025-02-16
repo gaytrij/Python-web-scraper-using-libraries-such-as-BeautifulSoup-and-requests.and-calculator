@@ -1,0 +1,5 @@
+Install dependencies:
+pip install requests beautifulsoup4 pandas
+Save the code in a file, e.g., main_app.py.
+Run the script:
+python main_app.py

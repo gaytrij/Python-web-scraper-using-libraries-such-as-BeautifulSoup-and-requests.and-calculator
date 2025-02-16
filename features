@@ -1,0 +1,22 @@
+Features
+Web Scraper:
+
+        Fetches HTML content from a given URL.
+
+        Extracts headlines and links (customizable for other data).
+
+        Saves data in CSV or JSON format.
+
+GUI Calculator:
+
+        Supports addition, subtraction, multiplication, and division.
+
+        Handles invalid inputs and division by zero.
+
+        Saves calculation history in an SQLite database.
+
+        Generates a CSV report of the history using pandas.
+
+Logging:
+
+        Logs all operations and errors to app.log.
